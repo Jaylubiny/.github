@@ -1,12 +1,7 @@
-## Hi there 👋
+## About Jaylubiny
+Jaylubiny is a small company created by preclik02 as the founder and main maintainer. We are mainly focused on maintaining JayOS as our main project and developing custom scripts for people. The JayOS is not OS from scratch project but is made by configuring archios which is a lot less impresive. We would like it to be from scratch so we can larp but its currently outside of our knowladge and time range, as our main developer is more focusing on IT career than the programming one. As our another project we like to talk about we have our website which has for us it seems great structure but also is under heavy developement. It is source code of the [jaylub.com](https://jaylub.com) which is also bought by us and hosted by cloudflared tunnel.
 
-<!--
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Contacts
+If you have some issues with our software, found a bug in our code, have more optimailized code or have ideas on better structure you can email us on support@jaylub.com or make isssue/pr on any of our repository the response time varies about 1-2days. We are trying our best for the customer service and since currently we don't have anyone that can check the e-mail inbox all the time, we can't response at all time. We also could use AI to reply to your mail but that seems like bad customer service even though it would have been quick solution. 
+Also if you want to place an order for some automation script or any script in general email on offers@jaylub.com the cost of a script is negotiable and varies by the complexity of the work.
